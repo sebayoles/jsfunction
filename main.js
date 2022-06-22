@@ -2,7 +2,7 @@
 
 let nombreDeUsuario = prompt("Ingresa tu nombre")
 let peso = Number(prompt("Indica tu peso solamente con numeros, sin usar puntos ni signos"));
-let altura = Number(prompt("Ingresa tu altura solamente con numeros, separando metros de altura mediante un punto"));
+let altura = Number(prompt("Ingresa tu altura solamente con numeros, separando metros y centimetros mediante un punto"));
 
 
 /*
